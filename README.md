@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, I'm Kaveesha Vimandika!
 
-<!--
-**KaveeshaVimandika/KaveeshaVimandika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔎 Quality Assurance (QA) Engineer
 
-Here are some ideas to get you started:
+I am a dedicated **Quality Assurance Engineer** focused on ensuring the delivery of flawless and high-quality software products. My primary goal is to maintain **quality standards** throughout the Software Development Life Cycle (SDLC), utilizing robust testing methodologies to identify and mitigate risks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Testing & QA Skills (Tech Stack)
+
+| Category | Technologies |
+| :--- | :--- |
+| **Manual Testing** | Test Plan Design, Test Case Creation, Smoke Testing, Regression Testing, Exploratory Testing, Usability Testing, Cross-Browser Testing |
+| **Automation** | 🚧 *[If you know Automation tools like Selenium, Cypress, etc., list them here. Otherwise, remove this row or mention your learning progress.]* |
+| **Tools & Platforms** | **Jira, Trello** (Bug Tracking & Management), **Postman** (API Testing), **GitHub** (Version Control), Basic SQL |
+| **Methodologies** | Agile/Scrum, Waterfall, STLC (Software Testing Life Cycle) |
+
+---
+
+### 🌟 What I'm Focusing On
+
+* ✅ Ensuring superior quality in **User Experience (UX) and User Interface (UI)**.
+* 🐞 Accurately reporting and managing **Defects/Bugs** based on priority and severity.
+* 💡 Continuously learning and aiming to implement **Test Automation** strategies to improve efficiency.
+* 🚀 *[Add another personal goal or area of interest here, like "Exploring DevOps integration for QA."]*
+
+---
+
+### 🤝 Let's Connect
+
+Feel free to connect with me to discuss QA practices, technology, or potential collaborations!
+
+* 📧 **Email:** `vimandikak@gmail.com`
+* 🔗 **LinkedIn:** ``
