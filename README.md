@@ -11,7 +11,7 @@ I am a dedicated **Quality Assurance Engineer** focused on ensuring the delivery
 | Category | Technologies |
 | :--- | :--- |
 | **Manual Testing** | Test Plan Design, Test Case Creation, Smoke Testing, Regression Testing, Exploratory Testing, Usability Testing, Cross-Browser Testing |
-| **Automation** | 🚧 Actively learning Test Automation concepts and gaining practical experience with open-source tools like Selenium and Playwright. |
+| **Automation** |Actively learning Test Automation concepts and gaining practical experience with open-source tools like Selenium and Playwright. |
 | **Tools & Platforms** | **Jira, Trello** (Bug Tracking & Management), **Postman** (API Testing), **GitHub** (Version Control), Basic SQL |
 | **Methodologies** | Agile/Scrum, Waterfall, STLC (Software Testing Life Cycle) |
 
