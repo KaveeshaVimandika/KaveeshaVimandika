@@ -22,7 +22,7 @@ I am a dedicated **Quality Assurance Engineer** focused on ensuring the delivery
 * ✅ Ensuring superior quality in **User Experience (UX) and User Interface (UI)**.
 * 🐞 Accurately reporting and managing **Defects/Bugs** based on priority and severity.
 * 💡 Continuously learning and aiming to implement **Test Automation** strategies to improve efficiency.
-* 🚀 *[Add another personal goal or area of interest here, like "Exploring DevOps integration for QA."]*
+  
 
 ---
 
